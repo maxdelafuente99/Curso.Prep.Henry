@@ -1,0 +1,1 @@
+Arrays: imagina que tienes muchos tipos de lapices separados en cajas. Los lapices del #2, los del #3, los del #1, etc. Cada caja es un arreglo, el hecho de que en una tengas todos los del #1, no te impide meter del #2 o del #3, cierto?. Es igual con los arreglos, puedes tener varios tipos de datos dentro. 
