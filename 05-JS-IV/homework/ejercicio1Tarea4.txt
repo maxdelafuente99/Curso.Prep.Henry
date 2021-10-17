@@ -1,0 +1,19 @@
+
+Objetos: imagina que tienes que organizar tus juguetes por marca, tama√o y precio. Para hacerlo te ayudas de formularios con una tabla de dos columnas y 3 filas; en la columna izquierda tienes marca, tamano y precio, en la columna derecha dejas los espacios en blanco para llenarlos. As√≠ funciona un objeto, un objeto es una lista de propiedades. 
+
+Propiedades: como ya lo mencione, las propiedades vienen en los objetos, en este caso las propiedades del objeto ya mencionado serian marca, tamano y precio. 
+
+Metodos: imagina que esas listas las pasas a un archivo de computadora. Y tu programas ese archivo para que muchas listas que estan ahi, se cambien cuando tu lo desees, sin tener que cambiar cada una. Asi funcionan los metodos, basicamente son funciones dentro de los objetos. 
+
+Bucle for... in: imagina que quieres ver todas las listas de juguetes que tienes desplegadas en una sola hoja, o separadas por categoria. Para eso sirve el bucle for in, recorre cada propiedad de los objetos. 
+
+
+Notacion de puntos vs notacion de corchetes: La notacion de puntos va a buscar el nombre de la propiedad, por ejemplo si estas buscando la categoria marca, entonces en notaciin de puntos seria asi: 
+
+objeto.marca;
+
+La notacion de corchetes seria asi:
+
+objeto['marca']
+
+A diferencia de la notacion de puntos, la notacion de corchetes necesita que le escribas tal cual lo que buscas, y tal cual lo va a buscar. 
