@@ -1,0 +1,1 @@
+1. Funciones Callback: las funciones callback, son funciones que pones dentro de los argumentos de otras funciones. Es como si tuvieras una pieza lego que funciona si le pones otra pieza lego que realiza otra funcion que a su vez, funciona con otras cosas, y todo eso junto, forma una pieza que realiza una funcion final. 
