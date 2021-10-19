@@ -1,0 +1,28 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.box div {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+img {
+    width: 430px;
+    height:600px;
+    background-color: black;
+    padding: 10px;
+}
+
